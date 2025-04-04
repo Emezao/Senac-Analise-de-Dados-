@@ -17,4 +17,3 @@ print(soma)
 print(menor)
 print(media)
 
-print(5%2)

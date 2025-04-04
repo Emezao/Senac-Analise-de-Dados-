@@ -12,7 +12,7 @@ num = []
 
 
 # Processamento dos Dados
-for i in range(10):
+for i in range():
     num.append(int(input(f"Informe o {n}º. valor: ")))
     n += 1 
 

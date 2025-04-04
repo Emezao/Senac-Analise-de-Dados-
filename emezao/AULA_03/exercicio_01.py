@@ -18,3 +18,5 @@ if (idade >= 16 and idade <=69) and peso>= 50 and descanso>=6:
 else:
  
  print(f'infelizmente {nome}, você não pode doar.')
+
+
